@@ -1,0 +1,13 @@
+body{
+    height:100vh;
+}
+.container{
+    height: 80vh;
+    background-image: url("../img/fondo.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
